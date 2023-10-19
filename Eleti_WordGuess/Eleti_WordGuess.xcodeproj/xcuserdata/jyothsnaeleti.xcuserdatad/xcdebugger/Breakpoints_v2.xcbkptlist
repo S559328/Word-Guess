@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "06AFBB72-BE66-4D99-A48F-6B8720E87ED6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC37A5CA-8221-4529-AAC6-7D0DAE3BB1F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Eleti_WordGuess/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DC37A5CA-8221-4529-AAC6-7D0DAE3BB1F8 - 17eacf69db42fbf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eleti_WordGuess.ViewController.wordsGuessedLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Eleti_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyothsnaeleti/Desktop/Eleti_WordGuess/Eleti_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DC37A5CA-8221-4529-AAC6-7D0DAE3BB1F8 - 3cdf23704de85fc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eleti_WordGuess.ViewController.wordsGuessedLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Eleti_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyothsnaeleti/Desktop/Eleti_WordGuess/Eleti_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DC37A5CA-8221-4529-AAC6-7D0DAE3BB1F8 - d13c89e8576422f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eleti_WordGuess.ViewController.wordsGuessedLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Eleti_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyothsnaeleti/Desktop/Eleti_WordGuess/Eleti_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "DC37A5CA-8221-4529-AAC6-7D0DAE3BB1F8 - 74f7b3527565c732"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eleti_WordGuess.ViewController.wordsGuessedLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Eleti_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyothsnaeleti/Desktop/Eleti_WordGuess/Eleti_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "DC37A5CA-8221-4529-AAC6-7D0DAE3BB1F8 - c0f07204a35e4272"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eleti_WordGuess.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Eleti_WordGuess.ViewController"
+                  moduleName = "Eleti_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyothsnaeleti/Desktop/Eleti_WordGuess/Eleti_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "DC37A5CA-8221-4529-AAC6-7D0DAE3BB1F8 - 33dc75d93baf4349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Eleti_WordGuess.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Eleti_WordGuess.ViewController&gt;"
+                  moduleName = "Eleti_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jyothsnaeleti/Desktop/Eleti_WordGuess/Eleti_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
